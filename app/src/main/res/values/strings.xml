@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StreamReader</string>
+    <string name="cedula">Ingrese Cedula</string>
+    <string name="nombres">Ingrese Nombres</string>
+    <string name="apellidos">Ingrese Apellidos</string>
+    <string name="escribir">Escribir</string>
+    <string name="leer">Leer</string>
+</resources>
